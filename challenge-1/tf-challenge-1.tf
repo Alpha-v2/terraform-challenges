@@ -1,8 +1,6 @@
 provider "aws" {
   version = "~> 2.54"
   region  = "us-east-1"
-  access_key = "AKIAZQ3DQJ2XVSHSJSQG"
-  secret_key = "NKCe9PLtNcfVgg4WQ7p/RHn/0PYEWEFokhaT+Iae"
 }
 
 provider "digitalocean" {}
